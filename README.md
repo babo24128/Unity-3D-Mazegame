@@ -1,2 +1,2 @@
 # Unity-3D-Mazegame
-mazegame
+mazegame_IHateMosquito
