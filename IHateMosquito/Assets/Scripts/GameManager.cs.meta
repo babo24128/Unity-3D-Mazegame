@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 9ff7c93c6ee2bb247b5b377c04a15cee
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Clip_enemy: {instanceID: 0}
+  - Clip_coin: {instanceID: 0}
+  - AudioPlayer: {instanceID: 0}
+  - LifeText: {instanceID: 0}
+  - CoinText: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

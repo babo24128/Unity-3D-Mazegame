@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 3a3b02ddc9cfd7b44a732d260e02f2bd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - coinFactory: {fileID: 1046869630431942, guid: c717f817a496cf247a92b830b355a407,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
